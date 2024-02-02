@@ -1,0 +1,6 @@
+C:\Hani\smt 2\Pemrograman\Responsi sebelum UAS\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe.config
+C:\Hani\smt 2\Pemrograman\Responsi sebelum UAS\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojResolveAssemblyReference.cache
+C:\Hani\smt 2\Pemrograman\Responsi sebelum UAS\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+C:\Hani\smt 2\Pemrograman\Responsi sebelum UAS\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+C:\Hani\smt 2\Pemrograman\Responsi sebelum UAS\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+C:\Hani\smt 2\Pemrograman\Responsi sebelum UAS\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
